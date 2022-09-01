@@ -1,0 +1,18 @@
+[
+    {
+      "precio": "bebidas",
+      "id": 1
+    },
+    {
+      "precio": "limpieza",
+      "id": 2
+    },
+    {
+      "nombre":"almacen",
+      "id": 3
+    },
+    {
+      "precio":"libreria",
+      "id": 4
+    }
+  ]
